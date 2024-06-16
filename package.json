@@ -1,0 +1,50 @@
+{
+  "name": "system-bot-v2",
+  "main": "index.js",
+  "author": "https://github.com/YoussefWahba0/",
+  "description": "",
+  "version": "2.0.0",
+  "scripts": {
+    "start": "index.js"
+  },
+  "dependencies": {
+    "@discordjs/voice": "^0.8.0",
+    "@haileybot/captcha-generator": "^1.7.0",
+    "axios": "^0.27.2",
+    "bindings": "^1.5.0",
+    "canvacord": "^5.4.7",
+    "canvas": "^2.8.0",
+    "chalk": "^4.1.2",
+    "croxydb": "^0.0.7",
+    "davie-convert": "^2.0.2",
+    "devtools-ts": "^1.1.3",
+    "discord-inviter": "^0.9.1",
+    "discord-player": "^5.1.0",
+    "discord-sync-commands-v14": "^2.0.0",
+    "discord-together": "^1.3.31",
+    "discord.js": "^13.17.1",
+    "djs-voice": "^1.2.0",
+    "erela.js": "^2.4.0",
+    "express": "^4.18.1",
+    "ffmpeg-static": "^4.4.0",
+    "glob": "^8.0.3",
+    "install-g": "^0.0.2-4",
+    "libsodium-wrappers": "^0.7.10",
+    "lodash.sortby": "^4.7.0",
+    "moment": "^2.29.4",
+    "mongoose": "^6.3.4",
+    "ms": "^2.1.3",
+    "node-fetch": "^3.2.10",
+    "node-gyp": "^9.0.0",
+    "opusscript": "^0.0.8",
+    "parse-ms": "^3.0.0",
+    "pretty-ms": "^7.0.1",
+    "pro.db": "^3.0.8",
+    "quick.db": "^7.1.3",
+    "undici": "^5.10.0",
+    "ytdl-core": "^4.11.2"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
